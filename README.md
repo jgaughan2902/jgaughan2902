@@ -11,17 +11,17 @@ You can view my repositroy containing files used to complete this assignment her
 https://github.com/jgaughan2902/SprintChallenge1
 
 
-#### Sprint Challenge 2
+#### <ins>Sprint Challenge 2</ins>
 This in-class assignment required students to relate a chosen MIT SLOAN video with concepts we discussed regarding a 360 degree view of a problem. Additionally, students were asked to generate their own ranking metric for players or teams of their choice. Students were also asked to choose visuals and discuss whether or not they meet the Cole Nussbaumer Knafflic guidelines. Finally, we were tasked with creating Tableau, R or Python visuals using the NFL Big Data Bowl provided data.
 
 You can view my repositroy containing files used to complete this assignment here:
 
 https://github.com/jgaughan2902/SprintChallenge2
   
-#### Sprint Challenge 3
+#### <ins>Sprint Challenge 3</ins>
 
   
-#### 2026 NFL Big Data Bowl
+#### <ins>2026 NFL Big Data Bowl</ins>
 The NFL Big Data Bowl is an annual competition giving individuals the opportunity to tackle an analytics based question. For my project, I chose to analyze the importance of ball-in-air receiver and defender separation.
 
 You can view the Big Data Bowl analytics competition information here:
