@@ -19,6 +19,11 @@ You can view my repositroy containing files used to complete this assignment her
 https://github.com/jgaughan2902/SprintChallenge2
   
 #### <ins>Sprint Challenge 3</ins>
+This in-class assignment required students to summarize a predictive analytics project from a peer-reviewed article and assess its adherence to the CRISP-DM guidelines. Additionally, we were asked to upgrade the logistic regression win probability model we produced in class and apply it to an NFL game. Finally, we were required to modify a customer retention model we developed in class.
+
+You can view my repositroy containing files used to complete this assignment here:
+
+https://github.com/jgaughan2902/SprintChallenge3
 
   
 #### <ins>2026 NFL Big Data Bowl</ins>
