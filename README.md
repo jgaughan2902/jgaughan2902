@@ -1,11 +1,9 @@
 ## Introduction
 Hi there! My name is Josh Gaughan and am a graduate student at Indiana University Indianapolis. I am currently studying applied data science with a specialization in sports analytics. This github page is a centralized location for all of the projects I have worked on. They are available to the public and can be viewed and/or downloaded at any time.
 
-- Lists and briefly describes each project with hyperlinks (e.g., Kaggle, Tableau
-Public, Google Colab, PDFs).
-
 ## Project Descriptions
-- Sprint Challenge 1
+
+#### Sprint Challenge 1
 This in-class assignment required students to access NFL play-by-play data, perform integirty and validation checks and perform EDA in both R and Python. Students were also required to generate a user-friendly report and generate and answer their own descriptive questions using the data provided.
 
 You can view my repositroy containing files used to complete this assignment here:
@@ -13,17 +11,17 @@ You can view my repositroy containing files used to complete this assignment her
 https://github.com/jgaughan2902/SprintChallenge1
 
 
-- Sprint Challenge 2
+#### Sprint Challenge 2
 This in-class assignment required students to relate a chosen MIT SLOAN video with concepts we discussed regarding a 360 degree view of a problem. Additionally, students were asked to generate their own ranking metric for players or teams of their choice. Students were also asked to choose visuals and discuss whether or not they meet the Cole Nussbaumer Knafflic guidelines. Finally, we were tasked with creating Tableau, R or Python visuals using the NFL Big Data Bowl provided data.
 
 You can view my repositroy containing files used to complete this assignment here:
 
 https://github.com/jgaughan2902/SprintChallenge2
   
-- Sprint Challenge 3
+#### Sprint Challenge 3
 
   
-- 2026 NFL Big Data Bowl
+#### 2026 NFL Big Data Bowl
 The NFL Big Data Bowl is an annual competition giving individuals the opportunity to tackle an analytics based question. For my project, I chose to analyze the importance of ball-in-air receiver and defender separation.
 
 You can view the Big Data Bowl analytics competition information here:
